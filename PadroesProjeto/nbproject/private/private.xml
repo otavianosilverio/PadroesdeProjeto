@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/COTEMIG/PadroesdeProjeto/PadroesProjeto/src/br/padroes/facade/SistemaDeInput.java</file>
+            <file>file:/C:/COTEMIG/PadroesdeProjeto/PadroesProjeto/src/br/padroes/flyweight/SpriteFlyweight.java</file>
+            <file>file:/C:/COTEMIG/PadroesdeProjeto/PadroesProjeto/src/br/padroes/facade/Cliente.java</file>
+            <file>file:/C:/COTEMIG/PadroesdeProjeto/PadroesProjeto/src/br/padroes/facade/SistemaDeAudio.java</file>
+            <file>file:/C:/COTEMIG/PadroesdeProjeto/PadroesProjeto/src/br/padroes/mediator/Cliente.java</file>
+            <file>file:/C:/COTEMIG/PadroesdeProjeto/PadroesProjeto/src/br/padroes/adapter/OpenGLImageAdapter.java</file>
+            <file>file:/C:/COTEMIG/PadroesdeProjeto/PadroesProjeto/src/br/padroes/flyweight/Ponto.java</file>
+            <file>file:/C:/COTEMIG/PadroesdeProjeto/PadroesProjeto/src/br/padroes/facade/SistemasFacade.java</file>
+            <file>file:/C:/COTEMIG/PadroesdeProjeto/PadroesProjeto/src/br/padroes/state/Cliente.java</file>
+            <file>file:/C:/COTEMIG/PadroesdeProjeto/PadroesProjeto/src/br/padroes/state/MarioState.java</file>
+            <file>file:/C:/COTEMIG/PadroesdeProjeto/PadroesProjeto/src/br/padroes/adapter/ImagemTarget.java</file>
+            <file>file:/C:/COTEMIG/PadroesdeProjeto/PadroesProjeto/src/br/padroes/mediator/Mediator.java</file>
+            <file>file:/C:/COTEMIG/PadroesdeProjeto/PadroesProjeto/src/br/padroes/observer/DadosObserver.java</file>
+            <file>file:/C:/COTEMIG/PadroesdeProjeto/PadroesProjeto/src/br/padroes/observer/TabelaObserver.java</file>
+            <file>file:/C:/COTEMIG/PadroesdeProjeto/PadroesProjeto/src/br/padroes/adapter/SDLImagemAdapter.java</file>
+            <file>file:/C:/COTEMIG/PadroesdeProjeto/PadroesProjeto/src/br/padroes/observer/Dados.java</file>
+            <file>file:/C:/COTEMIG/PadroesdeProjeto/PadroesProjeto/src/br/padroes/state/MarioCapa.java</file>
+            <file>file:/C:/COTEMIG/PadroesdeProjeto/PadroesProjeto/src/br/padroes/adapter/Cliente.java</file>
+            <file>file:/C:/COTEMIG/PadroesdeProjeto/PadroesProjeto/src/br/padroes/mediator/MensagemMediator.java</file>
+            <file>file:/C:/COTEMIG/PadroesdeProjeto/PadroesProjeto/src/br/padroes/observer/DadosSubject.java</file>
+            <file>file:/C:/COTEMIG/PadroesdeProjeto/PadroesProjeto/src/br/padroes/observer/PorcentoObserver.java</file>
+            <file>file:/C:/COTEMIG/PadroesdeProjeto/PadroesProjeto/src/br/padroes/flyweight/Cliente.java</file>
+            <file>file:/C:/COTEMIG/PadroesdeProjeto/PadroesProjeto/src/br/padroes/adapter/SDL_Surface.java</file>
+            <file>file:/C:/COTEMIG/PadroesdeProjeto/PadroesProjeto/src/br/padroes/adapter/OpenGLImage.java</file>
+            <file>file:/C:/COTEMIG/PadroesdeProjeto/PadroesProjeto/src/br/padroes/flyweight/FlyweightFactory.java</file>
+            <file>file:/C:/COTEMIG/PadroesdeProjeto/PadroesProjeto/src/br/padroes/state/Mario.java</file>
+            <file>file:/C:/COTEMIG/PadroesdeProjeto/PadroesProjeto/src/br/padroes/observer/Cliente.java</file>
+            <file>file:/C:/COTEMIG/PadroesdeProjeto/PadroesProjeto/src/br/padroes/flyweight/Sprite.java</file>
+            <file>file:/C:/COTEMIG/PadroesdeProjeto/PadroesProjeto/src/br/padroes/facade/SistemaDeVideo.java</file>
+            <file>file:/C:/COTEMIG/PadroesdeProjeto/PadroesProjeto/src/br/padroes/builder/Cliente.java</file>
+            <file>file:/C:/COTEMIG/PadroesdeProjeto/PadroesProjeto/src/br/padroes/flyweight/Imagem.java</file>
+        </group>
+    </open-files>
+</project-private>
